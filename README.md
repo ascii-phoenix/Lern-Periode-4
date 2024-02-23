@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 1. Ich habe momentan genügente noten
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+2. Direkt einen sauberen Code zu schreiben
 3. Eine digitale Enigma
 4. Paralleles Progrmieren 
 
