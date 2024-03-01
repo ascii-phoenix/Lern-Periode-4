@@ -29,8 +29,9 @@ Während meiner Recherche im Internet bin ich auf den Aufbau der Enigma I gesto�
 | 3            |        Class Enigma              |           ABC     |       ELO         |    ?     |
 | 4               |        Class Enigma              |       ?         |       ?         |     ?    |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️Heute habe ich einige meiner Ziele erreicht, da ich nach langen Besprechungen mit meinem Vater auf eine elegante Lösung gekommen bin, um mehrere Rollen als Ableitung zu machen.
 
+Leider ist es sehr zeitaufwändig und kann daher nicht in einem Tag gemacht werden, da ich mich zuerst in abgeleitete Klassen einlesen muss.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
