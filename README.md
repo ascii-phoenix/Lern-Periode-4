@@ -17,17 +17,17 @@ Heute habe ich mich intensiv mit der Grobplanung für den Bau einer Enigma-Masch
 Während meiner Recherche im Internet bin ich auf den Aufbau der Enigma I gestoßen, und ich fand die Informationen auf der Wikipedia-Seite (https://de.wikipedia.org/wiki/Enigma_I) besonders hilfreich. Der Artikel bietet detaillierte Einblicke in die Struktur und Funktionsweise der Enigma I, 
 ## 27.2.2024
 
-- [ ] Alle Walzen der Enigma I in C# nachbilden.
-- [ ] Klasse erstellen, die kontrolliert einen Array von Großbuchstaben in einen Array von Ganzzahlen umwandelt.
-- [ ] Rotation der Walzen erstellen.
-- [ ] Zwei Walzen integrieren.
+- [x] Alle Walzen der Enigma I in C# nachbilden.
+- [x] Klasse erstellen, die kontrolliert einen Array von Großbuchstaben in einen Array von Ganzzahlen umwandelt.
+- [?] Rotation der Walzen erstellen.
+- [?] Zwei Walzen integrieren.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   stimmt die verwandlung?   https://de.wikipedia.org/wiki/Enigma_I|     ABC           | EKM         |          |
-| 2              |     Class      Enigma           |   Class created             |      use every walze          |          |
-| 3            |        Class Enigma              |           ABC     |       ELO         |          |
-| 4               |        Class Enigma              |       ?         |       ?         |          |
+| 1               |   stimmt die verwandlung?   https://de.wikipedia.org/wiki/Enigma_I|     ABC           | EKM         |    true   |
+| 2              |     Class      Enigma           |   Class created             |      use every walze          |     ?    |
+| 3            |        Class Enigma              |           ABC     |       ELO         |    ?     |
+| 4               |        Class Enigma              |       ?         |       ?         |     ?    |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
