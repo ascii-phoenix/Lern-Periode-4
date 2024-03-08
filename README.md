@@ -34,8 +34,16 @@ Während meiner Recherche im Internet bin ich auf den Aufbau der Enigma I gesto�
 Leider ist es sehr zeitaufwändig und kann daher nicht in einem Tag gemacht werden, da ich mich zuerst in abgeleitete Klassen einlesen muss.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
+## 8.3.2024
+
+- [x] Einen Tieferen Punkt für den Anfang der Abgeleiteten klasse für mehr moglichkeiten
+- [x] umschreiben der Klasse um coustem länge der walze
+- [x] Historisch umk erstellen
+- [ ] erster output mit enigma und usk
+Heute konnte ich einige meiner gesteckten Ziele erfolgreich umsetzen, wenngleich nicht alle. Der Grund dafür lag darin, dass die erste Aufgabe mehr Zeit in Anspruch nahm als ursprünglich angenommen. Trotz dieser Herausforderung bin ich mit den erzielten Fortschritten zufrieden. Die Schwierigkeiten haben mir die Gelegenheit geboten, tiefer in die Thematik einzusteigen und meine Fähigkeiten weiter zu vertiefen. Die Umstrukturierung der Enigma-Klasse, um einen tieferen Einstiegspunkt für abgeleitete Klassen zu schaffen und die Anpassung der Klasse für benutzerdefinierte Walzenlängen, sind bedeutende Schritte. Die Implementierung einer historischen Umkehrwalze steht noch aus, aber insgesamt betrachte ich den Tag als erfolgreich.
 
 
+H
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
