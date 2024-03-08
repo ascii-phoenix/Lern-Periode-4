@@ -42,6 +42,16 @@ Leider ist es sehr zeitaufwändig und kann daher nicht in einem Tag gemacht werd
 - [ ] erster output mit enigma und usk
 Heute konnte ich einige meiner gesteckten Ziele erfolgreich umsetzen, wenngleich nicht alle. Der Grund dafür lag darin, dass die erste Aufgabe mehr Zeit in Anspruch nahm als ursprünglich angenommen. Trotz dieser Herausforderung bin ich mit den erzielten Fortschritten zufrieden. Die Schwierigkeiten haben mir die Gelegenheit geboten, tiefer in die Thematik einzusteigen und meine Fähigkeiten weiter zu vertiefen. Die Umstrukturierung der Enigma-Klasse, um einen tieferen Einstiegspunkt für abgeleitete Klassen zu schaffen und die Anpassung der Klasse für benutzerdefinierte Walzenlängen, sind bedeutende Schritte. Die Implementierung einer historischen Umkehrwalze steht noch aus, aber insgesamt betrachte ich den Tag als erfolgreich.
 
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               | umschreiben der Klasse um coustem länge der walze  |        age        |     aeg     |   true    |
+| 2               |  erstelung von historisch ukw |    ?            |      istorisch ukw    |   true    |
+
+
+
+
+
+
 
 H
 ## Reflexion
