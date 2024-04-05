@@ -63,15 +63,13 @@ Heute konnte ich einige meiner gesteckten Ziele erfolgreich umsetzen, wenngleich
 | 1.3               | Die Bearbeitete Version  des overidewalze funktioniert Methods für die Walzen  |        a        |     e     |   True    |
 
 05.4.2024
-- [ ] Einiga Erlauben mit spezifischen inputs einen output zu geben
+- [x] Einiga Erlauben mit spezifischen inputs einen output zu geben
 - [ ] Einiga Erlauben mit Allgemeinen inputs einen output zu geben(IList?)
-- [ ] Codecleanup
+- [x] Codecleanup
 
+✍️Heute habe ich es gerade so geschafft, dass das Programm funktioniert. Hauptsächlich habe ich Fehler behoben, zum Beispiel hatte die UKW_A einen fehlenden Buchstaben, der eine symmetrische Verschlüsselung verhinderte. Außerdem habe ich einige Optimierungen vorgenommen, die zwar im Ablauf des Programms keinen signifikanten Einfluss hatten, da ich den Code verbessern wollte oder es aus Zeitgründen nicht erforderlich war.
 
-
-
-
-H
 ## Reflexion
+✍️Im Nachhinein habe ich die Ziele des letzten Lern-Ateliers NICHT erreicht. Der Code wurde schnell unleserlich, während der Versuch, mit Ableitungen zu arbeiten, das Problem verschlimmert hat. Obwohl ich nicht fertig geworden bin, war das Projekt doch noch wertvoll, da ich meine Fähigkeiten und mein Wissen in C# verbessert habe. Leider muss ich auch zugeben, dass ich viel Code geschrieben habe, den ich nicht benutzt habe.
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Deshalb ist mein Ziel (wie bei der letzten Lernperiode) für die nächste Lernperiode, direkt von Anfang an einen sauberen Code zu schreiben und für Testfälle anspruchsvollere Anforderungen zu stellen. Ein weiteres, das ich ausprobieren will, ist, dass ich vor dem Start des Projektes einen Plan erstelle, der das Projekt in seine Einzelteile aufteilt, um einen besseren Überblick zu bekommen.
