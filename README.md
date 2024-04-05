@@ -73,3 +73,5 @@ Heute konnte ich einige meiner gesteckten Ziele erfolgreich umsetzen, wenngleich
 ✍️Im Nachhinein habe ich die Ziele des letzten Lern-Ateliers NICHT erreicht. Der Code wurde schnell unleserlich, während der Versuch, mit Ableitungen zu arbeiten, das Problem verschlimmert hat. Obwohl ich nicht fertig geworden bin, war das Projekt doch noch wertvoll, da ich meine Fähigkeiten und mein Wissen in C# verbessert habe. Leider muss ich auch zugeben, dass ich viel Code geschrieben habe, den ich nicht benutzt habe.
 
 Deshalb ist mein Ziel (wie bei der letzten Lernperiode) für die nächste Lernperiode, direkt von Anfang an einen sauberen Code zu schreiben und für Testfälle anspruchsvollere Anforderungen zu stellen. Ein weiteres, das ich ausprobieren will, ist, dass ich vor dem Start des Projektes einen Plan erstelle, der das Projekt in seine Einzelteile aufteilt, um einen besseren Überblick zu bekommen.
+
+Momentaner code in branches 05.04
